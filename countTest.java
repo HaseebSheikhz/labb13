@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 class countTest {
 
 	@Test
-	static void test() {
+	static void test123() {
 		
 		assertEquals(6, JUnitTesting.countA("aaaaaaaa"));
 		
